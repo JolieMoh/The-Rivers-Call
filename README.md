@@ -9,5 +9,7 @@ You play as Henry, a flightless white-faced heron determined to migrate with the
 
 # Team
 3D Artists: Charlee, Ali, Tiarna and Eryne
+
 Programmer: Kai and Jolie
+
 Directed and produced by Griffith University. 
